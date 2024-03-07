@@ -1,0 +1,15 @@
+C:\Users\jaque\source\repos\jacque-sbraga\30DaysOfCode\Day07\Day07\bin\Debug\net8.0\Day07.exe
+C:\Users\jaque\source\repos\jacque-sbraga\30DaysOfCode\Day07\Day07\bin\Debug\net8.0\Day07.deps.json
+C:\Users\jaque\source\repos\jacque-sbraga\30DaysOfCode\Day07\Day07\bin\Debug\net8.0\Day07.runtimeconfig.json
+C:\Users\jaque\source\repos\jacque-sbraga\30DaysOfCode\Day07\Day07\bin\Debug\net8.0\Day07.dll
+C:\Users\jaque\source\repos\jacque-sbraga\30DaysOfCode\Day07\Day07\bin\Debug\net8.0\Day07.pdb
+C:\Users\jaque\source\repos\jacque-sbraga\30DaysOfCode\Day07\Day07\obj\Debug\net8.0\Day07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaque\source\repos\jacque-sbraga\30DaysOfCode\Day07\Day07\obj\Debug\net8.0\Day07.AssemblyInfoInputs.cache
+C:\Users\jaque\source\repos\jacque-sbraga\30DaysOfCode\Day07\Day07\obj\Debug\net8.0\Day07.AssemblyInfo.cs
+C:\Users\jaque\source\repos\jacque-sbraga\30DaysOfCode\Day07\Day07\obj\Debug\net8.0\Day07.csproj.CoreCompileInputs.cache
+C:\Users\jaque\source\repos\jacque-sbraga\30DaysOfCode\Day07\Day07\obj\Debug\net8.0\Day07.sourcelink.json
+C:\Users\jaque\source\repos\jacque-sbraga\30DaysOfCode\Day07\Day07\obj\Debug\net8.0\Day07.dll
+C:\Users\jaque\source\repos\jacque-sbraga\30DaysOfCode\Day07\Day07\obj\Debug\net8.0\refint\Day07.dll
+C:\Users\jaque\source\repos\jacque-sbraga\30DaysOfCode\Day07\Day07\obj\Debug\net8.0\Day07.pdb
+C:\Users\jaque\source\repos\jacque-sbraga\30DaysOfCode\Day07\Day07\obj\Debug\net8.0\Day07.genruntimeconfig.cache
+C:\Users\jaque\source\repos\jacque-sbraga\30DaysOfCode\Day07\Day07\obj\Debug\net8.0\ref\Day07.dll
